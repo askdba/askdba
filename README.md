@@ -55,11 +55,13 @@ I'm **Alkin**, a database person based in **Istanbul** 🇹🇷 who has spent a 
 
 ## ✍️ Recently on the blog
 
+<!-- BLOG-POST-LIST:START -->
 - [Vector search in MySQL: from a plugin to the top of the Contributor Summit agenda](https://askdba.net/vector-search-in-mysql-from-a-plugin-to-the-top-of-the-contributor-summit-agenda/)
 - [MyVector Featured in the MySQL Ecosystem Project Spotlight of the Week](https://askdba.net/myvector-mysql-ecosystem-project-spotlight-of-the-week/)
 - [OurSQL Foundation Webinar: Beyond the Proxy with René Cannaò and Alkin Tezuysal](https://askdba.net/oursql-webinar-beyond-the-proxy-proxysql/)
 - [MySQL MCP Server v1.8.0 is out](https://askdba.net/mysql-mcp-server-v1-8-0-is-out/)
 - [Speaking at All Things Open 2026 in Raleigh](https://askdba.net/speaking-at-all-things-open-2026-in-raleigh/)
+<!-- BLOG-POST-LIST:END -->
 
 More at **[askdba.net](https://askdba.net)** →
 
