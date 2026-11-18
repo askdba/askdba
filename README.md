@@ -22,7 +22,7 @@ I'm **Alkin**, a database person based in **Istanbul** 🇹🇷 who has spent a 
 - 🧭 Co-founder of **[MyVector](https://myvector.online)** — native vector storage and search for MySQL
 - 🤖 Author of **[mysql-mcp-server](https://github.com/askdba/mysql-mcp-server)** — a Model Context Protocol server for MySQL, written in Go
 - 📚 Co-author of **MySQL Cookbook, 4th Edition** (O'Reilly) and **Database Design and Modeling with PostgreSQL and MySQL** (Packt)
-- 🏅 **Oracle ACE Pro** and **MySQL Rockstar**
+- 🏅 **Oracle ACE Pro**, **MySQL Rockstar** and **MySQL Contributor**
 - 🎤 Regular conference speaker and writer at **[askdba.net](https://askdba.net)**
 - ⛵ Happiest with a sail up and no pager
 
